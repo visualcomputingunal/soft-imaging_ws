@@ -30,5 +30,5 @@ Complete la tabla:
 
 ## Entrega
 
-* Hacer [fork](https://help.github.com/articles/fork-a-repo/) de la plantilla en todas las cuentas de los integrantes (de las que se tomará una al azar). Plazo: 28/4/19 a las 24h.
+* Hacer [fork](https://help.github.com/articles/fork-a-repo/) de la plantilla. Plazo: 28/4/19 a las 24h.
 * (todos los integrantes) Presentar el trabajo presencialmente en la siguiente sesión de taller.
